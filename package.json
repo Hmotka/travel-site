@@ -20,11 +20,12 @@
   "homepage": "https://github.com/Hmotka/travel-site#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "sass": "^1.49.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "css-loader": "^6.5.1",
+    "css-loader": "^5.2.7",
     "postcss-loader": "^6.2.1",
     "postcss-nested": "^5.0.6",
     "postcss-simple-vars": "^6.0.3",
